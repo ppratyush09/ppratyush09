@@ -35,13 +35,17 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 ## 🎖️ Badges
 Here are the visual representations of my certifications:
 
-| ![CEH](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CEH.png?raw=true "Certified Ethical Hacker") | ![CompTIA Network+](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CompTIA%20Network+.png?raw=true "CompTIA Network+") | ![Google IT Support Pro](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true "Google IT Support Professional Certificate") |
-|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-| **Certified Ethical Hacker**                                                                    | **CompTIA Network+**                                                                                        | **Google IT Support Professional Certificate**                                                           |
+<p align="center">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CEH.png?raw=true" alt="Certified Ethical Hacker" width="150">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CompTIA%20Network+.png?raw=true" alt="CompTIA Network+" width="150">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" width="150">
+</p>
 
-| ![ISC2 CC](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true "(ISC)² Certified in Cybersecurity") | ![Microsoft SC-200](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true "Microsoft SC-200") | ![Microsoft SC-900](https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true "Microsoft SC-900") |
-|:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-| **(ISC)² Certified in Cybersecurity**                                                                          | **Microsoft Certified: Security Operations Analyst Associate**                                             | **Microsoft Certified: Security, Compliance, and Identity Fundamentals**                                 |
+<p align="center">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" width="150">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" width="150">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true" alt="Microsoft SC-900" width="150">
+</p>
 
 ---
 
