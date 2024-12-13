@@ -70,9 +70,10 @@ Here are the visual representations of my certifications:
 ---
 
 ## 🌟 Achievements
-- 🏆 Top 5% on TryHackMe  
+- 🏆 Top 5% on [TryHackMe](https://tryhackme.com/r/p/ivor)
 - 📝 Winner of a whitepaper campaign at a previous employer (Topic: Zero Trust Architecture)  
 - 🎓 Secured 6th Position in the 7th Standard District Board Examination (Sundargarh, Odisha, 2006)  
+
 
 ---
 
