@@ -42,7 +42,7 @@ Here are the visual representations of my certifications:
 </p>
 
 <p align="center">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" width="180">
+  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" width="190">
   <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" width="140">
   <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true" alt="Microsoft SC-900" width="150">
 </p>
