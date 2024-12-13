@@ -35,17 +35,37 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 ## 🎖️ Badges
 Here are the visual representations of my certifications:
 
-<p align="center">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CEH.png?raw=true" alt="Certified Ethical Hacker" width="150">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CompTIA%20Network+.png?raw=true" alt="CompTIA Network+" width="150">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" width="150">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CEH.png?raw=true" alt="Certified Ethical Hacker" style="width:150px;">
+      <p><b>Certified Ethical Hacker</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CompTIA%20Network+.png?raw=true" alt="CompTIA Network+" style="width:150px;">
+      <p><b>CompTIA Network+</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" style="width:150px;">
+      <p><b>Google IT Support Pro</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" style="width:150px;">
+      <p><b>(ISC)² Certified in Cybersecurity</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" style="width:150px;">
+      <p><b>Microsoft SC-200</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true" alt="Microsoft SC-900" style="width:150px;">
+      <p><b>Microsoft SC-900</b></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" width="155">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" width="150">
-  <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true" alt="Microsoft SC-900" width="150">
-</p>
 
 ---
 
