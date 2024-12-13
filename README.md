@@ -47,13 +47,13 @@ Here are the visual representations of my certifications:
     </td>
     <td align="center">
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" style="width:150px;">
-      <p><b>Google IT Support Pro</b></p>
+      <p><b>Google IT Support</b></p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" style="width:150px;">
-      <p><b>(ISC)² Certified in Cybersecurity</b></p>
+      <p><b>(ISC)² CC</b></p>
     </td>
     <td align="center">
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" style="width:150px;">
