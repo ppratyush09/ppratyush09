@@ -46,9 +46,9 @@ Here are the visual representations of my certifications:
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/CompTIA%20Network+.png?raw=true" alt="CompTIA Network+" style="width:150px;">
       <p><b>CompTIA Network+</b></p>
     </td>
-    <td align="center">
-      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" style="width:150px;">
-      <p><b>Google IT Support</b></p>
+     <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" style="width:150px;">
+      <p><b>Microsoft SC-200</b></p>
     </td>
   </tr>
   <tr>
@@ -56,13 +56,13 @@ Here are the visual representations of my certifications:
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/ISC2%20CC.jpg?raw=true" alt="(ISC)² Certified in Cybersecurity" style="width:150px;">
       <p><b>(ISC)² CC</b></p>
     </td>
-    <td align="center">
-      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20200.jpg?raw=true" alt="Microsoft SC-200" style="width:150px;">
-      <p><b>Microsoft SC-200</b></p>
-    </td>
-    <td align="center">
+       <td align="center">
       <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Microsoft%20SC%20900.jpg?raw=true" alt="Microsoft SC-900" style="width:150px;">
       <p><b>Microsoft SC-900</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ppratyush09/ppratyush09/blob/main/Certification%20Badges/Google%20IT%20Support%20Pro.jpg?raw=true" alt="Google IT Support Pro" style="width:150px;">
+      <p><b>Google IT Support</b></p>
     </td>
   </tr>
 </table>
