@@ -17,7 +17,7 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 - **Threat Hunting:** Mandiant IOCe, Mandiant Redline  
 - **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
 - **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility
-- **Cloud:** - Azure, AWS
+- **Cloud:** Azure, AWS
 
 ---
 
