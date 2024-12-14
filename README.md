@@ -1,6 +1,6 @@
 # 👋 Greetings, fellow wanderers of the digital realm! Welcome to my GitHub fortress!  
 
-I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern Explorer**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
+I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
 - 🛡️ **Digital Forensics**  
 - 🔍 **Incident Response**  
 - 🎯 **Threat Hunting**  
@@ -11,12 +11,13 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 
 ## 🛠️ Tech Arsenal
 - **SIEM/SOAR:** Microsoft Sentinel, Splunk, Wazuh, ELK  
-- **EDR:** Sophos, Vajra (Developed by IIT Kanpur, later merged with CSMS [Cyber Security Management System])  
+- **EDR/MDR/XDR:** Sophos, Crowdstrike Falcon, Vajra (Developed by IIT Kanpur, later merged with CSMS [Cyber Security Management System])  
 - **Programming/Scripting:** Python, Bash, KQL  
 - **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal  
 - **Threat Hunting:** Mandiant IOCe, Mandiant Redline  
 - **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
-- **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility  
+- **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility
+- **Cloud:** - Azure, AWS
 
 ---
 
@@ -72,7 +73,7 @@ Here are the visual representations of my certifications:
 ## 🌟 Achievements
 - 🏆 Top 5% on [TryHackMe](https://tryhackme.com/r/p/ivor)
 - 📝 Winner of a whitepaper campaign at a previous employer (Topic: Zero Trust Architecture)  
-- 🎓 Secured 6th Position in the 7th Standard District Board Examination (Sundargarh, Odisha, 2006)  
+- 🎓 Secured 6th Position in the 7th Standard District Board Examination (Sundargarh, Odisha - 2006)  
 
 
 ---
