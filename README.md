@@ -80,7 +80,8 @@ Here are the visual representations of my certifications:
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyush_Pritimay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyushcs9/)  
-[![Email](https://img.shields.io/badge/Email-pritimaypratyush7@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritimaypratyush7@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-pratyushp09@proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratyushp09@proton.me)
+ 
 
 ---
 
