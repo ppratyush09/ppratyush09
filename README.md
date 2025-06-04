@@ -16,7 +16,7 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 - **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal  
 - **Threat Hunting:** Mandiant IOCe, Mandiant Redline  
 - **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
-- **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility
+- **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility, Belkasoft X
 - **Cloud:** Azure, AWS
 
 ---
