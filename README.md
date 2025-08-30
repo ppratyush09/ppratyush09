@@ -3,7 +3,7 @@
 I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
 - 🛡️ **Digital Forensics**  
 - 🔍 **Incident Response**  
-- 🎯 **Threat Hunting**  
+- 🎯 **Threat Hunting** - Hypothesis-driven, Data-driven, Intelligence-driven, IOC-based, TTP-based, Guided 
 
 Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital strongholds, I thrive on turning chaos into order.  
 
@@ -14,7 +14,7 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 - **EDR/MDR/XDR:** Sophos, Crowdstrike Falcon, Vajra (Developed by IIT Kanpur, later merged with CSMS [Cyber Security Management System])  
 - **Programming/Scripting:** Python, Bash, KQL  
 - **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal, Shodan
-- **Threat Hunting:** Mandiant IOCe, Mandiant Redline  
+- **Threat Hunting:** Mandiant IOCe, Mandiant Redline, Jupyter Notebook 
 - **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
 - **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility, Belkasoft X
 - **Cloud:** Azure, AWS
