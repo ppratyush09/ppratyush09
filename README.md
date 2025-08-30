@@ -13,7 +13,7 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 - **SIEM/SOAR:** Microsoft Sentinel, Splunk, Wazuh, ELK  
 - **EDR/MDR/XDR:** Sophos, Crowdstrike Falcon, Vajra (Developed by IIT Kanpur, later merged with CSMS [Cyber Security Management System])  
 - **Programming/Scripting:** Python, Bash, KQL  
-- **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal  
+- **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal, Shodan
 - **Threat Hunting:** Mandiant IOCe, Mandiant Redline  
 - **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
 - **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility, Belkasoft X
