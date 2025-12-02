@@ -1,7 +1,7 @@
 # 👋 Greetings, fellow wanderers of the digital realm! Welcome to my GitHub fortress!  
 
 I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
-- 🛡️ **Digital Forensics** - Reconstructing digital crime scenes through meticulous artifact analysis. From registry hives and shadow copies to memory dumps and volatile footprints, I unravel timelines, trace adversary actions, and reveal the hidden narrative that every byte conceals.
+- 🛡️ **Digital Forensics** - Analyzing digital crime scenes through meticulous artifact analysis. From registry hives and shadow copies to memory dumps and volatile footprints, I unravel timelines, trace adversary actions, and reveal the hidden narrative that every byte conceals.
   
 - 🔍 **Incident Response** - Turning disruption into order with precision and speed. From containment and eradication to recovery and resilience-building, I thrive in the heat of intrusions—coordinating investigations, neutralizing live threats, and restoring stability without missing a step.
 
