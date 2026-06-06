@@ -14,8 +14,6 @@ I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over four 
 
 Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital strongholds, I thrive on turning chaos into order.
 
-Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital strongholds, I thrive on turning chaos into order.  
-
 ---
 
 ### 🚀 Currently Exploring
