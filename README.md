@@ -1,37 +1,110 @@
 # 👋 Greetings, fellow wanderers of the digital realm! Welcome to my GitHub fortress!  
 
 I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
-- 🛡️ **Digital Forensics** - Analyzing digital crime scenes through meticulous artifact analysis. From registry hives and shadow copies to memory dumps and volatile footprints, I unravel timelines, trace adversary actions, and reveal the hidden narrative that every byte conceals.
-  
-- 🔍 **Incident Response** - Turning disruption into order with precision and speed. From containment and eradication to recovery and resilience-building, I thrive in the heat of intrusions—coordinating investigations, neutralizing live threats, and restoring stability without missing a step.
+Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:
 
-- 🎯 **Threat Hunting** - From Hypothesis-driven hunts that test theories of adversary behavior to Data-driven explorations that surface hidden anomalies, my craft spans every angle of proactive defense. I leverage Intelligence-guided hunts to pursue emerging campaigns, IOC-based sweeps to uncover known traces, and TTP-focused investigations mapped to MITRE ATT&CK. Alongside these, I execute Guided hunts powered by vendor playbooks and threat intel packages—balancing intuition, analytics, and structure to outpace even the most adaptive attackers. 
+- 🛡️ **Digital Forensics** - Analyzing digital crime scenes through meticulous artifact analysis. From registry hives and shadow copies to memory dumps and volatile footprints, I unravel timelines, trace adversary actions, and reveal the hidden narrative that every byte conceals.
+
+- 🔍 **Incident Response** - Turning disruption into order with precision and speed. From containment and eradication to recovery and resilience-building, I thrive in the heat of intrusions, coordinating investigations, neutralizing live threats, and restoring stability without missing a step.
+
+- 🎯 **Threat Hunting** - From Hypothesis-driven hunts that test theories of adversary behavior to Data-driven explorations that surface hidden anomalies, my craft spans every angle of proactive defense. I leverage Intelligence-guided hunts to pursue emerging campaigns, IOC-based sweeps to uncover known traces, and TTP-focused investigations mapped to MITRE ATT&CK. Alongside these, I execute Guided hunts powered by vendor playbooks and threat intel packages, balancing intuition, analytics, and structure to outpace even the most adaptive attackers.
+
+- 🧬 **Malware Analysis** - Peeling back the layers of suspicious binaries, scripts, and payloads to understand how they behave, persist, communicate, and execute their intent. From static clues to dynamic behavior, I enjoy dissecting malware like a digital specimen under a forensic microscope, translating strange code-beasts into clear defensive insight.
+
+- 📡 **Detection Engineering** - Transforming attacker behavior into detection logic that defenders can trust. I am growing deeper into the craft of writing, tuning, and validating detections across logs, rules, and telemetry sources, with a focus on reducing noise, catching meaningful signals, and turning adversary tradecraft into actionable defense.
+
+Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital strongholds, I thrive on turning chaos into order.
 
 Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital strongholds, I thrive on turning chaos into order.  
 
 ---
 
+### 🚀 Currently Exploring
+- Malware Analysis
+- Detection Engineering
+- Sigma Rule Development
+- YARA Rule Development
+- Detection-as-Code
+- Threat Research
+
+---
+
+
 ## 🛠️ Tech Arsenal
-- **SIEM/SOAR:** Microsoft Sentinel, Splunk, Wazuh, ELK  
-- **EDR/MDR/XDR:** Sophos, Crowdstrike Falcon, Vajra (Developed by IIT Kanpur, later merged with CSMS [Cyber Security Management System])  
-- **Programming/Scripting:** Python, Bash, KQL  
-- **Threat Intelligence:** MISP, OpenCTI, MITRE ATT&CK, VirusTotal, Shodan
-- **Threat Hunting:** Mandiant IOCe, Mandiant Redline, Jupyter Notebook 
-- **Malware Analysis:** PEstudio, Capa, ProcMon, ProcDot, Process Hacker, Fiddler  
-- **DFIR:** Autopsy, FTK Imager, Kuiper, Volatility, Belkasoft X
-- **Cloud:** Azure, AWS
+
+### SIEM / SOAR
+- Microsoft Sentinel
+- Splunk
+- Wazuh
+- Elastic Stack / ELK
+
+### Endpoint Security & EDR
+- Sophos EDR
+- Vajra / CSMS
+
+### Digital Forensics & Incident Response
+- Autopsy
+- FTK Imager
+- Volatility
+- Kuiper
+- Windows Event Logs
+- Registry Artifacts
+- Memory Forensics
+- Timeline Analysis
+
+### Threat Hunting & Threat Intelligence
+- Mandiant IOCe
+- Mandiant Redline
+- MITRE ATT&CK
+- MISP
+- OpenCTI
+- VirusTotal
+- IOC-based Hunting
+- Hypothesis-driven Hunting
+- TTP Mapping
+
+### Malware Analysis
+- PEStudio
+- CAPA
+- ProcMon
+- ProcDOT
+- Process Hacker
+- Fiddler
+- Basic Static Analysis
+- Basic Dynamic Analysis
+
+### Detection Engineering & Rulecraft
+- KQL
+- Sigma Rules
+- YARA Rules
+- Suricata Rules
+- Detection Logic Tuning
+- Alert Investigation
+- False Positive Reduction
+
+### Programming & Automation
+- Python
+- Bash
+- PowerShell
+- GitHub
+
+### Cloud
+- Azure
+- AWS
 
 ---
 
 ## 🏅 Certifications
+
 - 🛡️ Certified Ethical Hacker (CEH)  
 - 🌐 CompTIA Network+  
-- 🔒 Blackperl Certified Advanced Defender  
+- 🔒 BlackPerl Certified Advanced Defender  
+- 🧭 BlackPerl Certified Threat Hunt Professional  
 - 🎓 Microsoft Certified: Security Operations Analyst Associate (SC-200)  
 - 🔑 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)  
 - 🕵️‍♂️ Blue Team Junior Analyst  
 - 📜 (ISC)² Certified in Cybersecurity (CC)  
-- 🖥️ Google IT Support Professional Certificate  
+- 🖥️ Google IT Support Professional Certificate 
 
 ---
 
@@ -78,6 +151,14 @@ Here are the visual representations of my certifications:
 - 🎓 Secured 6th Position in the 7th Standard District Board Examination (Sundargarh, Odisha - 2006)  
 
 
+---
+
+## 🍎 The macOS Security Chronicles
+
+As I continue my journey into the Apple ecosystem, I document discoveries, experiments, forensic artifacts, security mechanisms, and defensive research from the perspective of a cybersecurity practitioner.
+
+📚 Read my notes, research, and write-ups:
+[Visit the Blog](https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale)
 ---
 
 ## 📫 Let’s Connect!
