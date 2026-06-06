@@ -1,7 +1,7 @@
 # 👋 Greetings, fellow wanderers of the digital realm! Welcome to my GitHub fortress!  
 
-I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over three years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**. Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:  
-Since then, I've leveled up to become a **Threat Analyst**, wielding expertise in:
+I’m **Pratyush Pritimay**, a passionate cybersecurity sentinel with over four years of experience safeguarding the cyber frontier. My journey began as an eager **Intern**, delving into the depths of **SOC operations**.   
+Since then, I've leveled up to become a **MDR Threat Analyst**, wielding expertise in:
 
 - 🛡️ **Digital Forensics** - Analyzing digital crime scenes through meticulous artifact analysis. From registry hives and shadow copies to memory dumps and volatile footprints, I unravel timelines, trace adversary actions, and reveal the hidden narrative that every byte conceals.
 
