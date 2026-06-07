@@ -17,12 +17,13 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 ---
 
 ### 🚀 Currently Exploring
-- Malware Analysis
+
 - Detection Engineering
 - Sigma Rule Development
 - YARA Rule Development
 - Suricata Rule Development
 - Detection-as-Code
+- Malware Analysis
 - Threat Research
 
 ---
