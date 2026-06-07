@@ -21,6 +21,7 @@ Whether it’s decrypting mysteries, neutralizing threats, or fortifying digital
 - Detection Engineering
 - Sigma Rule Development
 - YARA Rule Development
+- Suricata Rule Development
 - Detection-as-Code
 - Threat Research
 
@@ -154,8 +155,10 @@ Here are the visual representations of my certifications:
 
 As I continue my journey into the Apple ecosystem, I document discoveries, experiments, forensic artifacts, security mechanisms, and defensive research from the perspective of a cybersecurity practitioner.
 
-📚 Read my notes, research, and write-ups:
-[Visit the Blog](https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale)
+📚 Read my article on Sophos Threat Research blog
+[Click here](https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale)
+
+
 ---
 
 ## 📫 Let’s Connect!
